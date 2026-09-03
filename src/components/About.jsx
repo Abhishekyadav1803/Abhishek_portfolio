@@ -147,7 +147,7 @@ const About = () => {
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-red-500 font-bold">&#8250;</span>
-                  <span>Member of the elite <strong className="text-white">International Conference on Sustainable Technologies, Innovation and Management (ICSTIM 2026) </strong> for emerging technologies and global business perspectives.</span>
+                  <span>Representative at the elite <strong className="text-white">International Conference on Sustainable Technologies, Innovation and Management (ICSTIM 2026) </strong> for emerging technologies and global business perspectives.</span>
                 </li>
                 <li className="flex items-start gap-2.5">
                   <span className="text-red-500 font-bold">&#8250;</span>
