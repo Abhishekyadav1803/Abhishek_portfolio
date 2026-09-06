@@ -240,7 +240,7 @@ const Hero = () => {
                 Contact Me
               </a>
               <a
-                href="abhishekk--cvv.pdf"
+                href="public/abhishekk - cvv.pdf"
                 target="_blank"
                 rel="noreferrer"
                 className="px-8 py-3.5 bg-red-600 text-white font-bold text-xs uppercase tracking-widest rounded hover:bg-red-700 transition-all duration-300"
